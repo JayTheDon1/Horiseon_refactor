@@ -6,5 +6,7 @@ img of application:
 ![image]
 (https://user-images.githubusercontent.com/78714971/123525974-4b34ef00-d69a-11eb-8f77-f067dce884c4.png)
 
+# Links
+Link to deployed application: https://jaythedon1.github.io/Horiseon_refactor/
 
-Link to deployed application: 
+my github link containing reafactor code: https://github.com/JayTheDon1/Horiseon_refactor
